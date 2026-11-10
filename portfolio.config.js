@@ -4,7 +4,7 @@ window.PORTFOLIO = {
   intro: 'I’m a Graphic Designer and Video Editor from Bahawalpur, Pakistan. I create eye-catching graphic designs and engaging video content that help brands stand out, connect with their audience, and grow their online presence.',
   location: 'Bahawalpur, Pakistan', email: 'rehanzia322@gmail.com',
   accent: '#ed2444', portrait: 'portrait.webp', alternatePortrait: '',
-  links: {whatsapp:'https://wa.me/923178850736',instagram:'https://www.instagram.com/malikrz.322/',linkedin:'',github:''},
+  links: {whatsapp:'https://wa.me/923178850736',instagram:'https://www.instagram.com/vortexdigital.agency/',linkedin:'',github:''},
   resume: '',
   about: 'I work with clients as a graphic designer and video editor, creating eye-catching designs and engaging video content. My work covers YouTube videos, reels and shorts, ads, wedding and event edits, logos and branding, and social media graphics.',
   services: [
